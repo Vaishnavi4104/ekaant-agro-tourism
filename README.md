@@ -2,6 +2,19 @@
 
 A fully responsive, dynamic homepage for Ekaant Agro Tourism Retreat built with React, TailwindCSS, and JavaScript.
 
+## 🌐 **Live Website**
+**Visit the live site:** [https://ekaant-agro-tourism-myll527r8.vercel.app/](https://ekaant-agro-tourism-myll527r8.vercel.app/)
+
+[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://ekaant-agro-tourism-myll527r8.vercel.app/)
+
+### 🎯 **Website Showcase**
+- **🌿 Ekaant Branding**: Professional logo and green color scheme
+- **📱 Fully Responsive**: Perfect on desktop, tablet, and mobile
+- **⚡ Fast Performance**: Optimized loading and smooth animations
+- **🎨 Modern Design**: Clean, elegant UI with hover effects
+- **📍 Interactive Location**: Beautiful location pin illustration
+- **❓ FAQ Section**: Collapsible accordion for common questions
+
 ## 🌿 Features
 
 - **Fully Responsive Design**: Works perfectly on laptops, tablets, and mobiles
