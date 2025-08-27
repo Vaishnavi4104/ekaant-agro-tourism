@@ -1,0 +1,140 @@
+{
+  "navigation": {
+    "logo": {
+      "text": "EKAANT",
+      "icon": "🌳"
+    },
+    "menuItems": [
+      "HOME",
+      "AMENITIES", 
+      "PHOTO GALLERY",
+      "CONTACT US"
+    ]
+  },
+  "hero": {
+    "title": "WELCOME TO EKAANT-AGRO TOURISM RETREAT NEAR BOR TIGER RESERVE, MAHARASHTRA",
+    "subtitle": "Where Silence Heals, And Nature Whispers...",
+    "backgroundImage": "hero-forest.jpg",
+    "ctaButton": "Book Your Stay"
+  },
+  "about": {
+    "title": "Ekaant (एकांत)",
+    "description": "Ekaant means 'solitude' in Sanskrit. Our vision is to provide a peaceful escape where you can reconnect with nature and yourself. We believe in sustainable living, mindful travel, and authentic rural experiences.\n\nAt Ekaant, you'll experience nature's rhythm, traditional hospitality, and the thrill of wildlife encounters. Our retreat caters to solo travelers seeking solitude, couples looking for romantic getaways, and families wanting to create lasting memories in nature.\n\nWe offer a unique blend of comfort and adventure, where every moment is designed to help you disconnect from the digital world and reconnect with the natural world.",
+    "image": "resort-aerial.png",
+    "ctaButton": "Explore More →"
+  },
+  "services": {
+    "title": "WHAT WE OFFER",
+    "items": [
+      {
+        "title": "Boutique Farm Stay",
+        "image": "farm-stay.png",
+        "description": "Experience authentic rural living in our beautifully designed farm cottages"
+      },
+      {
+        "title": "Agro-Tourism Activities",
+        "image": "farming.png",
+        "description": "Learn traditional farming methods and participate in agricultural activities"
+      },
+      {
+        "title": "Forest & Wildlife Encounters",
+        "image": "wildlife.png",
+        "description": "Explore the nearby forest and spot diverse wildlife in their natural habitat"
+      },
+      {
+        "title": "Stargazing Nights",
+        "image": "stargazing.png",
+        "description": "Marvel at the clear night sky and learn about constellations"
+      },
+      {
+        "title": "Bonfire Evenings",
+        "image": "bonfire.png",
+        "description": "Enjoy cozy bonfire evenings with traditional music and storytelling"
+      },
+      {
+        "title": "Digital Detox & Wellness",
+        "image": "wellness.png",
+        "description": "Disconnect from technology and focus on your mental and physical wellness"
+      }
+    ],
+    "ctaButton": "Book Now →"
+  },
+  "location": {
+    "title": "HOW TO REACH EKAANT",
+    "description": "Located near the Bor Tiger Reserve in Maharashtra, Ekaant is easily accessible by road, train, and air.",
+    "transportation": {
+      "byRoad": {
+        "title": "By Road",
+        "details": [
+          "Nagpur: 80 Km via NH-361",
+          "Wardha: 40 Km via local roads",
+          "Ample parking available",
+          "Well-connected by state highways"
+        ]
+      },
+      "byTrain": {
+        "title": "By Train",
+        "details": [
+          "Nearest station: Seloo (10 Km)",
+          "Wardha Junction: 40 Km",
+          "Taxis and autos available",
+          "Pre-arranged pickup service"
+        ]
+      },
+      "byAir": {
+        "title": "By Air",
+        "details": [
+          "Nagpur Dr. Babasaheb Ambedkar International Airport: ~90 Km",
+          "Car rental services available",
+          "Private taxi arrangements",
+          "Helicopter landing facility nearby"
+        ]
+      }
+    }
+  },
+  "faqs": {
+    "title": "FREQUENTLY ASKED QUESTIONS (FAQs)",
+    "questions": [
+      {
+        "question": "Is The Ekaant Child-Friendly?",
+        "answer": "Yes, Children Love The Open Spaces, Animals, And Orchard Walks. We Also Have Kid-Safe Areas And Swings."
+      },
+      {
+        "question": "Is There Mobile Network Or Internet?",
+        "answer": "Mobile Networks Are Patchy (Which Is A Blessing!), But We Do Provide Limited Wi-Fi For Emergencies."
+      },
+      {
+        "question": "Can We Spot Tigers Or Wildlife Here?",
+        "answer": "Bor Tiger Reserve Is Known For Its Tiger Sightings. While We Cannot Guarantee Sightings, Safaris Can Be Arranged, And Wildlife Often Visits The Nearby Buffer Zones."
+      },
+      {
+        "question": "Is Food Included In The Stay?",
+        "answer": "Yes, We Offer Delicious Home-Style Maharashtrian Meals Made With Locally Sourced Organic Ingredients."
+      },
+      {
+        "question": "Do You Allow Pets?",
+        "answer": "Yes! Ekaant Is Pet-Friendly. We Just Ask That Pets Are Kept On Leash And Do Not Disturb The Wildlife."
+      },
+      {
+        "question": "What Is The Best Time To Visit?",
+        "answer": "October To March Is Ideal, With Pleasant Weather And Clear Skies For Stargazing. Monsoon (July-Sept) Is Lush And Magical, Too."
+      }
+    ]
+  },
+  "contact": {
+    "title": "Contact Information",
+    "phone": "+91 9988776655",
+    "email": "ekant@neave.tech",
+    "instagram": "@ekant",
+    "address": "Near Bor Tiger Reserve, Wardha, Maharashtra"
+  },
+  "footer": {
+    "tagline": "WE'D LOVE TO HELP YOU PLAN YOUR PEACEFUL ESCAPE.",
+    "contactInfo": {
+      "phone": "CALL/WHATSAPP: +91 9988776655",
+      "email": "EMAIL: EKANT@NEAVE.TECH",
+      "instagram": "INSTAGRAM: EKANT",
+      "location": "LOCATION: NEAR BOR TIGER RESERVE, WARDHA, MAHARASHTRA"
+    }
+  }
+}
